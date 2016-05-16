@@ -1,6 +1,6 @@
 public class ISOtoCodeService {
-    public String countryISO {get;set;}
-    public String response {get;set;} 
+    public String countryISO {get; set;}
+    public String response {get; set;} 
 
     private String baseSericeURL = 'http://services.groupkt.com/country/get/iso2code/';
     private String returnedContinuationId ;
