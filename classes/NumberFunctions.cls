@@ -1,4 +1,5 @@
 public with sharing class NumberFunctions {
+    
     public static List<Integer> exponentArray(Integer n) {
         List<Integer> lstInteger = new List<Integer>();
         if (n > 0) {
